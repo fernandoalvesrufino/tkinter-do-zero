@@ -1,5 +1,4 @@
 from tkinter import *
-from turtle import width
 
 janela = Tk()
 janela.title('Label')
