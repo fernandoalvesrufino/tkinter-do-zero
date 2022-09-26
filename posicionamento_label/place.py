@@ -1,5 +1,4 @@
 # place() - usa coordenadas em pixels
-# grid() - coloca os widgets em uma grade semelhante a uma planilha
 
 from tkinter import *
 
