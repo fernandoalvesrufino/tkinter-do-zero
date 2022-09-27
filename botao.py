@@ -1,3 +1,6 @@
+# Aqui foi criado uma janela com um botão, onde cada vez que é clicado incrementa-se um valor a uma variável. Uma label é atualizada e apresenta o numero
+# se é par ou ímpar
+
 from tkinter import *
 
 cor_preta = '#000000'
